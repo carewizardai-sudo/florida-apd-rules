@@ -1,0 +1,726 @@
+{
+  "name": "Florida APD rules and effective dates",
+  "description": "Every rule in the Florida Administrative Code chapters governing Agency for Persons with Disabilities providers, with the effective date the state publishes. These are CURRENT effective dates, not a complete amendment history.",
+  "source": "https://www.flrules.org",
+  "published_by": "Care Wizard — https://carewizard.ai",
+  "last_verified": "2026-08-17",
+  "licence": "CC0-1.0 (public domain dedication)",
+  "rule_count": 102,
+  "chapter_count": 7,
+  "rules": [
+    {
+      "chapter": "65G-1",
+      "chapter_topic": "APD general provisions",
+      "rule_number": "65G-1.010",
+      "rule_title": "Definitions",
+      "effective_date": "2007-09-19"
+    },
+    {
+      "chapter": "65G-1",
+      "chapter_topic": "APD general provisions",
+      "rule_number": "65G-1.046",
+      "rule_title": "Crisis Determination Procedure (Transferred)",
+      "effective_date": "2007-09-19"
+    },
+    {
+      "chapter": "65G-1",
+      "chapter_topic": "APD general provisions",
+      "rule_number": "65G-1.047",
+      "rule_title": "Crisis Status Criteria",
+      "effective_date": "2007-09-19"
+    },
+    {
+      "chapter": "65G-10",
+      "chapter_topic": "Appeals and hearings",
+      "rule_number": "65G-10.001",
+      "rule_title": "Definitions",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-10",
+      "chapter_topic": "Appeals and hearings",
+      "rule_number": "65G-10.004",
+      "rule_title": "Support Coordinator Basic Pre-Service Level 1 Training and In-Person Level 2 Training",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-10",
+      "chapter_topic": "Appeals and hearings",
+      "rule_number": "65G-10.005",
+      "rule_title": "Support Coordinator In-Service Training",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-13",
+      "chapter_topic": "Provider qualifications",
+      "rule_number": "65G-13.001",
+      "rule_title": "Definitions",
+      "effective_date": "2023-08-17"
+    },
+    {
+      "chapter": "65G-13",
+      "chapter_topic": "Provider qualifications",
+      "rule_number": "65G-13.002",
+      "rule_title": "Individual and Family Supports (IFS) Procedure",
+      "effective_date": "2022-12-25"
+    },
+    {
+      "chapter": "65G-13",
+      "chapter_topic": "Provider qualifications",
+      "rule_number": "65G-13.003",
+      "rule_title": "Individual and Family Supports Criteria",
+      "effective_date": "2022-12-25"
+    },
+    {
+      "chapter": "65G-13",
+      "chapter_topic": "Provider qualifications",
+      "rule_number": "65G-13.004",
+      "rule_title": "In-Home Subsidy Procedure",
+      "effective_date": "2022-12-25"
+    },
+    {
+      "chapter": "65G-13",
+      "chapter_topic": "Provider qualifications",
+      "rule_number": "65G-13.005",
+      "rule_title": "In-Home Subsidy Criteria",
+      "effective_date": "2022-12-25"
+    },
+    {
+      "chapter": "65G-13",
+      "chapter_topic": "Provider qualifications",
+      "rule_number": "65G-13.006",
+      "rule_title": "In-Home Subsidy Restrictions",
+      "effective_date": "2022-12-25"
+    },
+    {
+      "chapter": "65G-13",
+      "chapter_topic": "Provider qualifications",
+      "rule_number": "65G-13.007",
+      "rule_title": "In-Home Subsidy Review",
+      "effective_date": "2022-12-25"
+    },
+    {
+      "chapter": "65G-13",
+      "chapter_topic": "Provider qualifications",
+      "rule_number": "65G-13.008",
+      "rule_title": "Room and Board Payments",
+      "effective_date": "2023-08-17"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.001",
+      "rule_title": "Definitions",
+      "effective_date": "2025-02-27"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.002",
+      "rule_title": "License Application and Renewal Procedures",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.0021",
+      "rule_title": "Change of Ownership",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.003",
+      "rule_title": "Length of Licenses",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.0031",
+      "rule_title": "Other Licenses (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.0032",
+      "rule_title": "Agency Monitoring and Oversight",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.004",
+      "rule_title": "License Violations - Non-Disciplinary Actions",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.0041",
+      "rule_title": "License Violations - Disciplinary Actions",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.005",
+      "rule_title": "License Denial, Suspension or Revocation",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.006",
+      "rule_title": "Licensed Residential Facility Capacity",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.007",
+      "rule_title": "General Residential Facility Standards",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.0071",
+      "rule_title": "Foster Care Facility Standards",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.0072",
+      "rule_title": "Group Home Facility Standards",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.0073",
+      "rule_title": "Residential Habilitation Center Standards",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.0074",
+      "rule_title": "Adult Day Training Program Standards",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.008",
+      "rule_title": "Staffing Requirements for Residential Facilities",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.009",
+      "rule_title": "Resident Care and Supervision Standards",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.010",
+      "rule_title": "Fire and Emergency Procedures",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.011",
+      "rule_title": "Foster Care Facility Standards (Transferred)",
+      "effective_date": "2014-07-01"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.012",
+      "rule_title": "Group Home Facility Standards (Transferred)",
+      "effective_date": "2014-07-01"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.013",
+      "rule_title": "Residential Habilitation Center Standards (Transferred)",
+      "effective_date": "2014-07-01"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.014",
+      "rule_title": "Comprehensive Transitional Education Program Standards (Repealed)",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.015",
+      "rule_title": "Siting",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.017",
+      "rule_title": "Health Safety Standards for Licensed Facilities (Repealed)",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-2",
+      "chapter_topic": "Licensing and staffing of residential facilities",
+      "rule_number": "65G-2.018",
+      "rule_title": "Personal Needs Allowance",
+      "effective_date": "2023-08-17"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.001",
+      "rule_title": "Definitions for Behavior Services: Practice and Procedure",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0011",
+      "rule_title": "Recognized Certification Organizations for Behavior Analysts",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.002",
+      "rule_title": "Service Delivery",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0021",
+      "rule_title": "Tier Waivers (Repealed)",
+      "effective_date": "2010-11-21"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0022",
+      "rule_title": "Tier One Waiver (Repealed)",
+      "effective_date": "2010-11-21"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0023",
+      "rule_title": "Tier Two Waiver (Repealed)",
+      "effective_date": "2010-11-21"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0024",
+      "rule_title": "Tier Three Waiver (Repealed)",
+      "effective_date": "2010-11-21"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0025",
+      "rule_title": "Tier Four Waiver (Repealed)",
+      "effective_date": "2010-11-21"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0026",
+      "rule_title": "Tier Waivers (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0027",
+      "rule_title": "Tier One Waiver (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0028",
+      "rule_title": "Tier Two Waiver (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0029",
+      "rule_title": "Tier Three Waiver (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.00291",
+      "rule_title": "Tier Four Waiver (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.003",
+      "rule_title": "Certification as a Behavior Analyst",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.004",
+      "rule_title": "Certification as an Associate Behavior Analyst",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.005",
+      "rule_title": "Renewal of Behavior Analysis Certification",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.006",
+      "rule_title": "Approved Continuing Education",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.007",
+      "rule_title": "Behavior Analysis Certification Fees",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.008",
+      "rule_title": "Behavior Analysis Services Oversight System Organization",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.009",
+      "rule_title": "Design, Implementation and Monitoring of Behavior Analysis Services",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.010",
+      "rule_title": "Behavior Analysis Services Approval",
+      "effective_date": "2012-04-04"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.011",
+      "rule_title": "Determination of Intellectual Disability in Capital Felony Cases: Intelligence; Tests to be Administered",
+      "effective_date": "2004-01-13"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.012",
+      "rule_title": "Determination of Intellectual Disability: Intelligence Tests to Be Administered",
+      "effective_date": "2006-06-13"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.014",
+      "rule_title": "Eligibility for Agency Services - Definitions",
+      "effective_date": "2012-05-16"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.015",
+      "rule_title": "Eligibility for Agency Services Criteria",
+      "effective_date": "2020-06-03"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.016",
+      "rule_title": "Application Process",
+      "effective_date": "2025-07-06"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.017",
+      "rule_title": "Establishing Eligibility",
+      "effective_date": "2020-06-03"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0210",
+      "rule_title": "Definitions (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0211",
+      "rule_title": "General Provisions (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0212",
+      "rule_title": "Establishing the Final iBudget Allocation Amount (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0213",
+      "rule_title": "Definitions",
+      "effective_date": "2023-01-03"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0214",
+      "rule_title": "Allocation Algorithm",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0215",
+      "rule_title": "General Provisions",
+      "effective_date": "2023-01-03"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0216",
+      "rule_title": "Establishment of the iBudget Amount",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0217",
+      "rule_title": "iBudget Cost Plan",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.0218",
+      "rule_title": "Significant Additional Need Funding",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.022",
+      "rule_title": "iBudget Cost Plan Development and Approval (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.024",
+      "rule_title": "Cost Plan Changes (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-4",
+      "chapter_topic": "iBudget, support plans and eligibility",
+      "rule_number": "65G-4.027",
+      "rule_title": "Cost Plan Funding and Review (Repealed)",
+      "effective_date": "2016-01-19"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.001",
+      "rule_title": "Definitions",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.002",
+      "rule_title": "Authorization for Medication Administration and Informed Consent Requirement",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.0025",
+      "rule_title": "Self-Administration of Medication Without Supervision",
+      "effective_date": "2019-07-01"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.003",
+      "rule_title": "Medication Administration Trainer Requirements",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.0033",
+      "rule_title": "Medication Administration Training Course Curriculum Requirements",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.0035",
+      "rule_title": "Validation Trainer Requirements",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.004",
+      "rule_title": "Medication Assistance Provider Training and Validation Requirements",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.005",
+      "rule_title": "Medication Administration Procedures",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.006",
+      "rule_title": "Medication Errors",
+      "effective_date": "2019-07-01"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.007",
+      "rule_title": "Storage Requirements",
+      "effective_date": "2019-07-01"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.008",
+      "rule_title": "Documentation and Record Keeping",
+      "effective_date": "2026-03-26"
+    },
+    {
+      "chapter": "65G-7",
+      "chapter_topic": "Medication administration",
+      "rule_number": "65G-7.009",
+      "rule_title": "Off-site Medication Administration",
+      "effective_date": "2019-07-01"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.001",
+      "rule_title": "Definitions",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.002",
+      "rule_title": "Approved Emergency Procedure Curriculum",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.003",
+      "rule_title": "Reactive Strategy Policy and Procedures",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.004",
+      "rule_title": "Initial Assessments",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.005",
+      "rule_title": "Authorizations for Specific Reactive Strategies",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.006",
+      "rule_title": "Limitations on Use and Duration of Reactive Strategies",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.007",
+      "rule_title": "Seclusion and Restraint",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.008",
+      "rule_title": "Chemical Restraint",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.009",
+      "rule_title": "Prohibited Procedures",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.010",
+      "rule_title": "Documentation and Notification",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.011",
+      "rule_title": "Access to Rules",
+      "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-8",
+      "chapter_topic": "Reactive strategies",
+      "rule_number": "65G-8.012",
+      "rule_title": "Enforcement",
+      "effective_date": "2008-08-07"
+    }
+  ]
+}
