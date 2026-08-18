@@ -1,0 +1,4 @@
+# The pre-push safety hook is local tooling, not part of the dataset.
+# This repo publishes exactly four things: the README, the licence and the
+# two data files.
+.githooks/
