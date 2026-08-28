@@ -82,7 +82,7 @@ twenty-seven in one morning.
 
 ## Citing this
 
-> Care Wizard, *Florida APD Rules — effective dates dataset*, 2026-08-17,
+> Care Wizard, *Florida APD Rules — effective dates dataset*, 2026-08-28,
 > https://github.com/carewizardai-sudo/florida-apd-rules
 
 Found an error? [Open an issue](https://github.com/carewizardai-sudo/florida-apd-rules/issues).
