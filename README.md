@@ -1,10 +1,15 @@
 # Florida APD Rules — effective dates dataset
 
-Every rule in the Florida Administrative Code chapters that govern **Agency for
-Persons with Disabilities (APD)** providers, with the effective date the state
-publishes for each one.
+Every rule in every Florida Administrative Code chapter the **Agency for
+Persons with Disabilities (APD)** administers — all sixteen of them — with the
+effective date the state publishes for each one.
 
-**102 rules · 7 chapters · re-verified daily**
+**140 rules · 16 chapters · re-verified daily**
+
+Widened on 3 September 2026 from the seven chapters that govern a group home to
+the complete set (adding 65G-3, 5, 6, 9, 11, 12, 14, 15 and 16), because "every
+chapter APD has" is a boundary a reader can check and "the ones that matter" is
+a judgement that quietly drifts.
 
 | File | Format |
 |---|---|

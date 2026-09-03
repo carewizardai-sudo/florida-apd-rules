@@ -3,10 +3,10 @@
   "description": "Every rule in the Florida Administrative Code chapters governing Agency for Persons with Disabilities providers, with the effective date the state publishes. These are CURRENT effective dates, not a complete amendment history.",
   "source": "https://www.flrules.org",
   "published_by": "Care Wizard — https://carewizard.ai",
-  "last_verified": "2026-09-02",
+  "last_verified": "2026-09-03",
   "licence": "CC0-1.0 (public domain dedication)",
-  "rule_count": 102,
-  "chapter_count": 7,
+  "rule_count": 140,
+  "chapter_count": 16,
   "rules": [
     {
       "chapter": "65G-1",
@@ -49,6 +49,48 @@
       "rule_number": "65G-10.005",
       "rule_title": "Support Coordinator In-Service Training",
       "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-11",
+      "chapter_topic": "Pre-enrollment categories - the waiting list",
+      "rule_number": "65G-11.001",
+      "rule_title": "Definitions",
+      "effective_date": "2025-06-05"
+    },
+    {
+      "chapter": "65G-11",
+      "chapter_topic": "Pre-enrollment categories - the waiting list",
+      "rule_number": "65G-11.002",
+      "rule_title": "Preenrollment Category Criteria",
+      "effective_date": "2025-06-30"
+    },
+    {
+      "chapter": "65G-11",
+      "chapter_topic": "Pre-enrollment categories - the waiting list",
+      "rule_number": "65G-11.003",
+      "rule_title": "Preenrollment Category Placement Procedure",
+      "effective_date": "2025-06-05"
+    },
+    {
+      "chapter": "65G-11",
+      "chapter_topic": "Pre-enrollment categories - the waiting list",
+      "rule_number": "65G-11.004",
+      "rule_title": "Crisis Determination Procedure",
+      "effective_date": "2026-08-30"
+    },
+    {
+      "chapter": "65G-12",
+      "chapter_topic": "Agency data systems, including Electronic Visit Verification",
+      "rule_number": "65G-12.001",
+      "rule_title": "Definitions",
+      "effective_date": "2020-06-17"
+    },
+    {
+      "chapter": "65G-12",
+      "chapter_topic": "Agency data systems, including Electronic Visit Verification",
+      "rule_number": "65G-12.002",
+      "rule_title": "Electronic Visit Verification",
+      "effective_date": "2020-06-17"
     },
     {
       "chapter": "65G-13",
@@ -105,6 +147,83 @@
       "rule_number": "65G-13.008",
       "rule_title": "Room and Board Payments",
       "effective_date": "2023-08-17"
+    },
+    {
+      "chapter": "65G-14",
+      "chapter_topic": "Qualified Organizations and waiver support coordination",
+      "rule_number": "65G-14.001",
+      "rule_title": "Definitions",
+      "effective_date": "2022-10-25"
+    },
+    {
+      "chapter": "65G-14",
+      "chapter_topic": "Qualified Organizations and waiver support coordination",
+      "rule_number": "65G-14.002",
+      "rule_title": "Qualifications",
+      "effective_date": "2022-10-25"
+    },
+    {
+      "chapter": "65G-14",
+      "chapter_topic": "Qualified Organizations and waiver support coordination",
+      "rule_number": "65G-14.003",
+      "rule_title": "Agency Monitoring and Oversight",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-14",
+      "chapter_topic": "Qualified Organizations and waiver support coordination",
+      "rule_number": "65G-14.004",
+      "rule_title": "Qualified Organization Duties and Responsibilities – Oversight of Support Coordinators",
+      "effective_date": "2022-10-25"
+    },
+    {
+      "chapter": "65G-14",
+      "chapter_topic": "Qualified Organizations and waiver support coordination",
+      "rule_number": "65G-14.0041",
+      "rule_title": "Qualified Organization Duties and Responsibilities – Code of Ethics",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-14",
+      "chapter_topic": "Qualified Organizations and waiver support coordination",
+      "rule_number": "65G-14.0042",
+      "rule_title": "Qualified Organization Duties and Responsibilities – Disciplinary Process",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-14",
+      "chapter_topic": "Qualified Organizations and waiver support coordination",
+      "rule_number": "65G-14.0043",
+      "rule_title": "Qualified Organization Duties and Responsibilities – Mentoring Program",
+      "effective_date": "2021-07-01"
+    },
+    {
+      "chapter": "65G-14",
+      "chapter_topic": "Qualified Organizations and waiver support coordination",
+      "rule_number": "65G-14.005",
+      "rule_title": "Disciplinary Action",
+      "effective_date": "2022-10-25"
+    },
+    {
+      "chapter": "65G-15",
+      "chapter_topic": "State institution claims",
+      "rule_number": "65G-15.001",
+      "rule_title": "Definitions",
+      "effective_date": "2022-05-02"
+    },
+    {
+      "chapter": "65G-15",
+      "chapter_topic": "State institution claims",
+      "rule_number": "65G-15.002",
+      "rule_title": "Restitution Claims",
+      "effective_date": "2022-05-02"
+    },
+    {
+      "chapter": "65G-16",
+      "chapter_topic": "Unique Abilities Partnership Program",
+      "rule_number": "65G-16.002",
+      "rule_title": "Unique Abilities Partnership Program",
+      "effective_date": "2016-12-11"
     },
     {
       "chapter": "65G-2",
@@ -280,6 +399,48 @@
       "rule_number": "65G-2.018",
       "rule_title": "Personal Needs Allowance",
       "effective_date": "2023-08-17"
+    },
+    {
+      "chapter": "65G-3",
+      "chapter_topic": "Stopping, reducing or suspending client services",
+      "rule_number": "65G-3.001",
+      "rule_title": "Definitions",
+      "effective_date": "2019-06-04"
+    },
+    {
+      "chapter": "65G-3",
+      "chapter_topic": "Stopping, reducing or suspending client services",
+      "rule_number": "65G-3.002",
+      "rule_title": "Criteria for Admissions and Services (Repealed)",
+      "effective_date": "2019-05-13"
+    },
+    {
+      "chapter": "65G-3",
+      "chapter_topic": "Stopping, reducing or suspending client services",
+      "rule_number": "65G-3.003",
+      "rule_title": "Rules for Reduction of Services by the Provider (Repealed)",
+      "effective_date": "2019-05-13"
+    },
+    {
+      "chapter": "65G-3",
+      "chapter_topic": "Stopping, reducing or suspending client services",
+      "rule_number": "65G-3.004",
+      "rule_title": "Rules for Suspension of Services by the Provider (Repealed)",
+      "effective_date": "2019-05-13"
+    },
+    {
+      "chapter": "65G-3",
+      "chapter_topic": "Stopping, reducing or suspending client services",
+      "rule_number": "65G-3.005",
+      "rule_title": "Rules for Termination, Reduction, or Suspension of Services by the Provider",
+      "effective_date": "2019-06-04"
+    },
+    {
+      "chapter": "65G-3",
+      "chapter_topic": "Stopping, reducing or suspending client services",
+      "rule_number": "65G-3.006",
+      "rule_title": "Discrimination and Retaliatory Conduct",
+      "effective_date": "2019-06-04"
     },
     {
       "chapter": "65G-4",
@@ -555,6 +716,104 @@
       "effective_date": "2016-01-19"
     },
     {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.001",
+      "rule_title": "Definitions",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.002",
+      "rule_title": "Eligibility for Services",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.003",
+      "rule_title": "Planning for Supported Living Services",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.004",
+      "rule_title": "Selection of Housing",
+      "effective_date": "2003-10-28"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.005",
+      "rule_title": "Selection of Providers by Participants",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.006",
+      "rule_title": "Ongoing Monitoring by Support Coordinator",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.007",
+      "rule_title": "Individual Survey Activities",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.008",
+      "rule_title": "Certification of Providers",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.009",
+      "rule_title": "Annual Survey and Renewal of Certification",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.010",
+      "rule_title": "Suspension of Provider Certification",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.011",
+      "rule_title": "Termination of Provider Certification",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.012",
+      "rule_title": "Documentation of Services",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-5",
+      "chapter_topic": "Supported Living services",
+      "rule_number": "65G-5.013",
+      "rule_title": "Rates and Payments",
+      "effective_date": "1995-01-18"
+    },
+    {
+      "chapter": "65G-6",
+      "chapter_topic": "Trust fund loans for foster care, group homes and supported employment",
+      "rule_number": "65G-6.001",
+      "rule_title": "Authority to Loan; Provisions and Determination of Eligibility",
+      "effective_date": "1999-09-28"
+    },
+    {
       "chapter": "65G-7",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.001",
@@ -721,6 +980,13 @@
       "rule_number": "65G-8.012",
       "rule_title": "Enforcement",
       "effective_date": "2008-08-07"
+    },
+    {
+      "chapter": "65G-9",
+      "chapter_topic": "Forensic client services",
+      "rule_number": "65G-9.002",
+      "rule_title": "Right to Vote in Public Elections",
+      "effective_date": "2017-09-12"
     }
   ]
 }
