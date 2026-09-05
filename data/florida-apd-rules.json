@@ -3,55 +3,62 @@
   "description": "Every rule in the Florida Administrative Code chapters governing Agency for Persons with Disabilities providers, with the effective date the state publishes. These are CURRENT effective dates, not a complete amendment history.",
   "source": "https://www.flrules.org",
   "published_by": "Care Wizard — https://carewizard.ai",
-  "last_verified": "2026-09-03",
+  "last_verified": "2026-09-05",
   "licence": "CC0-1.0 (public domain dedication)",
   "rule_count": 140,
   "chapter_count": 16,
   "rules": [
     {
       "chapter": "65G-1",
-      "chapter_topic": "APD general provisions",
+      "chapter_official_title": "Waiver Enrollment for Children in the Child Welfare System",
+      "chapter_topic": "Waiver enrollment for children in the child welfare system",
       "rule_number": "65G-1.010",
       "rule_title": "Definitions",
       "effective_date": "2007-09-19"
     },
     {
       "chapter": "65G-1",
-      "chapter_topic": "APD general provisions",
+      "chapter_official_title": "Waiver Enrollment for Children in the Child Welfare System",
+      "chapter_topic": "Waiver enrollment for children in the child welfare system",
       "rule_number": "65G-1.046",
       "rule_title": "Crisis Determination Procedure (Transferred)",
       "effective_date": "2007-09-19"
     },
     {
       "chapter": "65G-1",
-      "chapter_topic": "APD general provisions",
+      "chapter_official_title": "Waiver Enrollment for Children in the Child Welfare System",
+      "chapter_topic": "Waiver enrollment for children in the child welfare system",
       "rule_number": "65G-1.047",
       "rule_title": "Crisis Status Criteria",
       "effective_date": "2007-09-19"
     },
     {
       "chapter": "65G-10",
-      "chapter_topic": "Appeals and hearings",
+      "chapter_official_title": "Provider Training",
+      "chapter_topic": "Provider training",
       "rule_number": "65G-10.001",
       "rule_title": "Definitions",
       "effective_date": "2021-07-01"
     },
     {
       "chapter": "65G-10",
-      "chapter_topic": "Appeals and hearings",
+      "chapter_official_title": "Provider Training",
+      "chapter_topic": "Provider training",
       "rule_number": "65G-10.004",
       "rule_title": "Support Coordinator Basic Pre-Service Level 1 Training and In-Person Level 2 Training",
       "effective_date": "2021-07-01"
     },
     {
       "chapter": "65G-10",
-      "chapter_topic": "Appeals and hearings",
+      "chapter_official_title": "Provider Training",
+      "chapter_topic": "Provider training",
       "rule_number": "65G-10.005",
       "rule_title": "Support Coordinator In-Service Training",
       "effective_date": "2021-07-01"
     },
     {
       "chapter": "65G-11",
+      "chapter_official_title": "DD Preenrollment Categories",
       "chapter_topic": "Pre-enrollment categories - the waiting list",
       "rule_number": "65G-11.001",
       "rule_title": "Definitions",
@@ -59,6 +66,7 @@
     },
     {
       "chapter": "65G-11",
+      "chapter_official_title": "DD Preenrollment Categories",
       "chapter_topic": "Pre-enrollment categories - the waiting list",
       "rule_number": "65G-11.002",
       "rule_title": "Preenrollment Category Criteria",
@@ -66,6 +74,7 @@
     },
     {
       "chapter": "65G-11",
+      "chapter_official_title": "DD Preenrollment Categories",
       "chapter_topic": "Pre-enrollment categories - the waiting list",
       "rule_number": "65G-11.003",
       "rule_title": "Preenrollment Category Placement Procedure",
@@ -73,6 +82,7 @@
     },
     {
       "chapter": "65G-11",
+      "chapter_official_title": "DD Preenrollment Categories",
       "chapter_topic": "Pre-enrollment categories - the waiting list",
       "rule_number": "65G-11.004",
       "rule_title": "Crisis Determination Procedure",
@@ -80,6 +90,7 @@
     },
     {
       "chapter": "65G-12",
+      "chapter_official_title": "Agency Data Management Systems",
       "chapter_topic": "Agency data systems, including Electronic Visit Verification",
       "rule_number": "65G-12.001",
       "rule_title": "Definitions",
@@ -87,6 +98,7 @@
     },
     {
       "chapter": "65G-12",
+      "chapter_official_title": "Agency Data Management Systems",
       "chapter_topic": "Agency data systems, including Electronic Visit Verification",
       "rule_number": "65G-12.002",
       "rule_title": "Electronic Visit Verification",
@@ -94,62 +106,71 @@
     },
     {
       "chapter": "65G-13",
-      "chapter_topic": "Provider qualifications",
+      "chapter_official_title": "Individual and Family Supports",
+      "chapter_topic": "Individual and family supports, and the in-home subsidy",
       "rule_number": "65G-13.001",
       "rule_title": "Definitions",
       "effective_date": "2023-08-17"
     },
     {
       "chapter": "65G-13",
-      "chapter_topic": "Provider qualifications",
+      "chapter_official_title": "Individual and Family Supports",
+      "chapter_topic": "Individual and family supports, and the in-home subsidy",
       "rule_number": "65G-13.002",
       "rule_title": "Individual and Family Supports (IFS) Procedure",
       "effective_date": "2022-12-25"
     },
     {
       "chapter": "65G-13",
-      "chapter_topic": "Provider qualifications",
+      "chapter_official_title": "Individual and Family Supports",
+      "chapter_topic": "Individual and family supports, and the in-home subsidy",
       "rule_number": "65G-13.003",
       "rule_title": "Individual and Family Supports Criteria",
       "effective_date": "2022-12-25"
     },
     {
       "chapter": "65G-13",
-      "chapter_topic": "Provider qualifications",
+      "chapter_official_title": "Individual and Family Supports",
+      "chapter_topic": "Individual and family supports, and the in-home subsidy",
       "rule_number": "65G-13.004",
       "rule_title": "In-Home Subsidy Procedure",
       "effective_date": "2022-12-25"
     },
     {
       "chapter": "65G-13",
-      "chapter_topic": "Provider qualifications",
+      "chapter_official_title": "Individual and Family Supports",
+      "chapter_topic": "Individual and family supports, and the in-home subsidy",
       "rule_number": "65G-13.005",
       "rule_title": "In-Home Subsidy Criteria",
       "effective_date": "2022-12-25"
     },
     {
       "chapter": "65G-13",
-      "chapter_topic": "Provider qualifications",
+      "chapter_official_title": "Individual and Family Supports",
+      "chapter_topic": "Individual and family supports, and the in-home subsidy",
       "rule_number": "65G-13.006",
       "rule_title": "In-Home Subsidy Restrictions",
       "effective_date": "2022-12-25"
     },
     {
       "chapter": "65G-13",
-      "chapter_topic": "Provider qualifications",
+      "chapter_official_title": "Individual and Family Supports",
+      "chapter_topic": "Individual and family supports, and the in-home subsidy",
       "rule_number": "65G-13.007",
       "rule_title": "In-Home Subsidy Review",
       "effective_date": "2022-12-25"
     },
     {
       "chapter": "65G-13",
-      "chapter_topic": "Provider qualifications",
+      "chapter_official_title": "Individual and Family Supports",
+      "chapter_topic": "Individual and family supports, and the in-home subsidy",
       "rule_number": "65G-13.008",
       "rule_title": "Room and Board Payments",
       "effective_date": "2023-08-17"
     },
     {
       "chapter": "65G-14",
+      "chapter_official_title": "Qualified Organizations and Waiver Support Coordination",
       "chapter_topic": "Qualified Organizations and waiver support coordination",
       "rule_number": "65G-14.001",
       "rule_title": "Definitions",
@@ -157,6 +178,7 @@
     },
     {
       "chapter": "65G-14",
+      "chapter_official_title": "Qualified Organizations and Waiver Support Coordination",
       "chapter_topic": "Qualified Organizations and waiver support coordination",
       "rule_number": "65G-14.002",
       "rule_title": "Qualifications",
@@ -164,6 +186,7 @@
     },
     {
       "chapter": "65G-14",
+      "chapter_official_title": "Qualified Organizations and Waiver Support Coordination",
       "chapter_topic": "Qualified Organizations and waiver support coordination",
       "rule_number": "65G-14.003",
       "rule_title": "Agency Monitoring and Oversight",
@@ -171,6 +194,7 @@
     },
     {
       "chapter": "65G-14",
+      "chapter_official_title": "Qualified Organizations and Waiver Support Coordination",
       "chapter_topic": "Qualified Organizations and waiver support coordination",
       "rule_number": "65G-14.004",
       "rule_title": "Qualified Organization Duties and Responsibilities – Oversight of Support Coordinators",
@@ -178,6 +202,7 @@
     },
     {
       "chapter": "65G-14",
+      "chapter_official_title": "Qualified Organizations and Waiver Support Coordination",
       "chapter_topic": "Qualified Organizations and waiver support coordination",
       "rule_number": "65G-14.0041",
       "rule_title": "Qualified Organization Duties and Responsibilities – Code of Ethics",
@@ -185,6 +210,7 @@
     },
     {
       "chapter": "65G-14",
+      "chapter_official_title": "Qualified Organizations and Waiver Support Coordination",
       "chapter_topic": "Qualified Organizations and waiver support coordination",
       "rule_number": "65G-14.0042",
       "rule_title": "Qualified Organization Duties and Responsibilities – Disciplinary Process",
@@ -192,6 +218,7 @@
     },
     {
       "chapter": "65G-14",
+      "chapter_official_title": "Qualified Organizations and Waiver Support Coordination",
       "chapter_topic": "Qualified Organizations and waiver support coordination",
       "rule_number": "65G-14.0043",
       "rule_title": "Qualified Organization Duties and Responsibilities – Mentoring Program",
@@ -199,6 +226,7 @@
     },
     {
       "chapter": "65G-14",
+      "chapter_official_title": "Qualified Organizations and Waiver Support Coordination",
       "chapter_topic": "Qualified Organizations and waiver support coordination",
       "rule_number": "65G-14.005",
       "rule_title": "Disciplinary Action",
@@ -206,6 +234,7 @@
     },
     {
       "chapter": "65G-15",
+      "chapter_official_title": "State Institution Claims Program",
       "chapter_topic": "State institution claims",
       "rule_number": "65G-15.001",
       "rule_title": "Definitions",
@@ -213,6 +242,7 @@
     },
     {
       "chapter": "65G-15",
+      "chapter_official_title": "State Institution Claims Program",
       "chapter_topic": "State institution claims",
       "rule_number": "65G-15.002",
       "rule_title": "Restitution Claims",
@@ -220,6 +250,7 @@
     },
     {
       "chapter": "65G-16",
+      "chapter_official_title": "Unique Abilities Partnership Program",
       "chapter_topic": "Unique Abilities Partnership Program",
       "rule_number": "65G-16.002",
       "rule_title": "Unique Abilities Partnership Program",
@@ -227,6 +258,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.001",
       "rule_title": "Definitions",
@@ -234,6 +266,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.002",
       "rule_title": "License Application and Renewal Procedures",
@@ -241,6 +274,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.0021",
       "rule_title": "Change of Ownership",
@@ -248,6 +282,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.003",
       "rule_title": "Length of Licenses",
@@ -255,6 +290,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.0031",
       "rule_title": "Other Licenses (Repealed)",
@@ -262,6 +298,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.0032",
       "rule_title": "Agency Monitoring and Oversight",
@@ -269,6 +306,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.004",
       "rule_title": "License Violations - Non-Disciplinary Actions",
@@ -276,6 +314,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.0041",
       "rule_title": "License Violations - Disciplinary Actions",
@@ -283,6 +322,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.005",
       "rule_title": "License Denial, Suspension or Revocation",
@@ -290,6 +330,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.006",
       "rule_title": "Licensed Residential Facility Capacity",
@@ -297,6 +338,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.007",
       "rule_title": "General Residential Facility Standards",
@@ -304,6 +346,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.0071",
       "rule_title": "Foster Care Facility Standards",
@@ -311,6 +354,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.0072",
       "rule_title": "Group Home Facility Standards",
@@ -318,6 +362,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.0073",
       "rule_title": "Residential Habilitation Center Standards",
@@ -325,6 +370,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.0074",
       "rule_title": "Adult Day Training Program Standards",
@@ -332,6 +378,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.008",
       "rule_title": "Staffing Requirements for Residential Facilities",
@@ -339,6 +386,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.009",
       "rule_title": "Resident Care and Supervision Standards",
@@ -346,6 +394,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.010",
       "rule_title": "Fire and Emergency Procedures",
@@ -353,6 +402,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.011",
       "rule_title": "Foster Care Facility Standards (Transferred)",
@@ -360,6 +410,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.012",
       "rule_title": "Group Home Facility Standards (Transferred)",
@@ -367,6 +418,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.013",
       "rule_title": "Residential Habilitation Center Standards (Transferred)",
@@ -374,6 +426,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.014",
       "rule_title": "Comprehensive Transitional Education Program Standards (Repealed)",
@@ -381,6 +434,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.015",
       "rule_title": "Siting",
@@ -388,6 +442,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.017",
       "rule_title": "Health Safety Standards for Licensed Facilities (Repealed)",
@@ -395,6 +450,7 @@
     },
     {
       "chapter": "65G-2",
+      "chapter_official_title": "Licensure of Residential Facilities and Adult Day Training Programs",
       "chapter_topic": "Licensing and staffing of residential facilities",
       "rule_number": "65G-2.018",
       "rule_title": "Personal Needs Allowance",
@@ -402,6 +458,7 @@
     },
     {
       "chapter": "65G-3",
+      "chapter_official_title": "Termination, Suspension or Reduction of Client Services by Service Providers",
       "chapter_topic": "Stopping, reducing or suspending client services",
       "rule_number": "65G-3.001",
       "rule_title": "Definitions",
@@ -409,6 +466,7 @@
     },
     {
       "chapter": "65G-3",
+      "chapter_official_title": "Termination, Suspension or Reduction of Client Services by Service Providers",
       "chapter_topic": "Stopping, reducing or suspending client services",
       "rule_number": "65G-3.002",
       "rule_title": "Criteria for Admissions and Services (Repealed)",
@@ -416,6 +474,7 @@
     },
     {
       "chapter": "65G-3",
+      "chapter_official_title": "Termination, Suspension or Reduction of Client Services by Service Providers",
       "chapter_topic": "Stopping, reducing or suspending client services",
       "rule_number": "65G-3.003",
       "rule_title": "Rules for Reduction of Services by the Provider (Repealed)",
@@ -423,6 +482,7 @@
     },
     {
       "chapter": "65G-3",
+      "chapter_official_title": "Termination, Suspension or Reduction of Client Services by Service Providers",
       "chapter_topic": "Stopping, reducing or suspending client services",
       "rule_number": "65G-3.004",
       "rule_title": "Rules for Suspension of Services by the Provider (Repealed)",
@@ -430,6 +490,7 @@
     },
     {
       "chapter": "65G-3",
+      "chapter_official_title": "Termination, Suspension or Reduction of Client Services by Service Providers",
       "chapter_topic": "Stopping, reducing or suspending client services",
       "rule_number": "65G-3.005",
       "rule_title": "Rules for Termination, Reduction, or Suspension of Services by the Provider",
@@ -437,6 +498,7 @@
     },
     {
       "chapter": "65G-3",
+      "chapter_official_title": "Termination, Suspension or Reduction of Client Services by Service Providers",
       "chapter_topic": "Stopping, reducing or suspending client services",
       "rule_number": "65G-3.006",
       "rule_title": "Discrimination and Retaliatory Conduct",
@@ -444,6 +506,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.001",
       "rule_title": "Definitions for Behavior Services: Practice and Procedure",
@@ -451,6 +514,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0011",
       "rule_title": "Recognized Certification Organizations for Behavior Analysts",
@@ -458,6 +522,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.002",
       "rule_title": "Service Delivery",
@@ -465,6 +530,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0021",
       "rule_title": "Tier Waivers (Repealed)",
@@ -472,6 +538,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0022",
       "rule_title": "Tier One Waiver (Repealed)",
@@ -479,6 +546,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0023",
       "rule_title": "Tier Two Waiver (Repealed)",
@@ -486,6 +554,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0024",
       "rule_title": "Tier Three Waiver (Repealed)",
@@ -493,6 +562,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0025",
       "rule_title": "Tier Four Waiver (Repealed)",
@@ -500,6 +570,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0026",
       "rule_title": "Tier Waivers (Repealed)",
@@ -507,6 +578,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0027",
       "rule_title": "Tier One Waiver (Repealed)",
@@ -514,6 +586,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0028",
       "rule_title": "Tier Two Waiver (Repealed)",
@@ -521,6 +594,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0029",
       "rule_title": "Tier Three Waiver (Repealed)",
@@ -528,6 +602,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.00291",
       "rule_title": "Tier Four Waiver (Repealed)",
@@ -535,6 +610,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.003",
       "rule_title": "Certification as a Behavior Analyst",
@@ -542,6 +618,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.004",
       "rule_title": "Certification as an Associate Behavior Analyst",
@@ -549,6 +626,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.005",
       "rule_title": "Renewal of Behavior Analysis Certification",
@@ -556,6 +634,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.006",
       "rule_title": "Approved Continuing Education",
@@ -563,6 +642,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.007",
       "rule_title": "Behavior Analysis Certification Fees",
@@ -570,6 +650,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.008",
       "rule_title": "Behavior Analysis Services Oversight System Organization",
@@ -577,6 +658,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.009",
       "rule_title": "Design, Implementation and Monitoring of Behavior Analysis Services",
@@ -584,6 +666,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.010",
       "rule_title": "Behavior Analysis Services Approval",
@@ -591,6 +674,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.011",
       "rule_title": "Determination of Intellectual Disability in Capital Felony Cases: Intelligence; Tests to be Administered",
@@ -598,6 +682,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.012",
       "rule_title": "Determination of Intellectual Disability: Intelligence Tests to Be Administered",
@@ -605,6 +690,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.014",
       "rule_title": "Eligibility for Agency Services - Definitions",
@@ -612,6 +698,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.015",
       "rule_title": "Eligibility for Agency Services Criteria",
@@ -619,6 +706,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.016",
       "rule_title": "Application Process",
@@ -626,6 +714,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.017",
       "rule_title": "Establishing Eligibility",
@@ -633,6 +722,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0210",
       "rule_title": "Definitions (Repealed)",
@@ -640,6 +730,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0211",
       "rule_title": "General Provisions (Repealed)",
@@ -647,6 +738,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0212",
       "rule_title": "Establishing the Final iBudget Allocation Amount (Repealed)",
@@ -654,6 +746,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0213",
       "rule_title": "Definitions",
@@ -661,6 +754,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0214",
       "rule_title": "Allocation Algorithm",
@@ -668,6 +762,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0215",
       "rule_title": "General Provisions",
@@ -675,6 +770,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0216",
       "rule_title": "Establishment of the iBudget Amount",
@@ -682,6 +778,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0217",
       "rule_title": "iBudget Cost Plan",
@@ -689,6 +786,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.0218",
       "rule_title": "Significant Additional Need Funding",
@@ -696,6 +794,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.022",
       "rule_title": "iBudget Cost Plan Development and Approval (Repealed)",
@@ -703,6 +802,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.024",
       "rule_title": "Cost Plan Changes (Repealed)",
@@ -710,6 +810,7 @@
     },
     {
       "chapter": "65G-4",
+      "chapter_official_title": "Service Delivery Practice and Procedure",
       "chapter_topic": "iBudget, support plans and eligibility",
       "rule_number": "65G-4.027",
       "rule_title": "Cost Plan Funding and Review (Repealed)",
@@ -717,6 +818,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.001",
       "rule_title": "Definitions",
@@ -724,6 +826,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.002",
       "rule_title": "Eligibility for Services",
@@ -731,6 +834,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.003",
       "rule_title": "Planning for Supported Living Services",
@@ -738,6 +842,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.004",
       "rule_title": "Selection of Housing",
@@ -745,6 +850,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.005",
       "rule_title": "Selection of Providers by Participants",
@@ -752,6 +858,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.006",
       "rule_title": "Ongoing Monitoring by Support Coordinator",
@@ -759,6 +866,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.007",
       "rule_title": "Individual Survey Activities",
@@ -766,6 +874,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.008",
       "rule_title": "Certification of Providers",
@@ -773,6 +882,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.009",
       "rule_title": "Annual Survey and Renewal of Certification",
@@ -780,6 +890,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.010",
       "rule_title": "Suspension of Provider Certification",
@@ -787,6 +898,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.011",
       "rule_title": "Termination of Provider Certification",
@@ -794,6 +906,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.012",
       "rule_title": "Documentation of Services",
@@ -801,6 +914,7 @@
     },
     {
       "chapter": "65G-5",
+      "chapter_official_title": "Supported Living Services",
       "chapter_topic": "Supported Living services",
       "rule_number": "65G-5.013",
       "rule_title": "Rates and Payments",
@@ -808,6 +922,7 @@
     },
     {
       "chapter": "65G-6",
+      "chapter_official_title": "Foster Care, Group Home, Developmental Training, and Supported Employment Programs Trust Fund",
       "chapter_topic": "Trust fund loans for foster care, group homes and supported employment",
       "rule_number": "65G-6.001",
       "rule_title": "Authority to Loan; Provisions and Determination of Eligibility",
@@ -815,6 +930,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.001",
       "rule_title": "Definitions",
@@ -822,6 +938,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.002",
       "rule_title": "Authorization for Medication Administration and Informed Consent Requirement",
@@ -829,6 +946,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.0025",
       "rule_title": "Self-Administration of Medication Without Supervision",
@@ -836,6 +954,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.003",
       "rule_title": "Medication Administration Trainer Requirements",
@@ -843,6 +962,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.0033",
       "rule_title": "Medication Administration Training Course Curriculum Requirements",
@@ -850,6 +970,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.0035",
       "rule_title": "Validation Trainer Requirements",
@@ -857,6 +978,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.004",
       "rule_title": "Medication Assistance Provider Training and Validation Requirements",
@@ -864,6 +986,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.005",
       "rule_title": "Medication Administration Procedures",
@@ -871,6 +994,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.006",
       "rule_title": "Medication Errors",
@@ -878,6 +1002,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.007",
       "rule_title": "Storage Requirements",
@@ -885,6 +1010,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.008",
       "rule_title": "Documentation and Record Keeping",
@@ -892,6 +1018,7 @@
     },
     {
       "chapter": "65G-7",
+      "chapter_official_title": "Medication Administration",
       "chapter_topic": "Medication administration",
       "rule_number": "65G-7.009",
       "rule_title": "Off-site Medication Administration",
@@ -899,6 +1026,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.001",
       "rule_title": "Definitions",
@@ -906,6 +1034,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.002",
       "rule_title": "Approved Emergency Procedure Curriculum",
@@ -913,6 +1042,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.003",
       "rule_title": "Reactive Strategy Policy and Procedures",
@@ -920,6 +1050,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.004",
       "rule_title": "Initial Assessments",
@@ -927,6 +1058,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.005",
       "rule_title": "Authorizations for Specific Reactive Strategies",
@@ -934,6 +1066,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.006",
       "rule_title": "Limitations on Use and Duration of Reactive Strategies",
@@ -941,6 +1074,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.007",
       "rule_title": "Seclusion and Restraint",
@@ -948,6 +1082,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.008",
       "rule_title": "Chemical Restraint",
@@ -955,6 +1090,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.009",
       "rule_title": "Prohibited Procedures",
@@ -962,6 +1098,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.010",
       "rule_title": "Documentation and Notification",
@@ -969,6 +1106,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.011",
       "rule_title": "Access to Rules",
@@ -976,6 +1114,7 @@
     },
     {
       "chapter": "65G-8",
+      "chapter_official_title": "Reactive Strategies",
       "chapter_topic": "Reactive strategies",
       "rule_number": "65G-8.012",
       "rule_title": "Enforcement",
@@ -983,6 +1122,7 @@
     },
     {
       "chapter": "65G-9",
+      "chapter_official_title": "Forensic Client Services",
       "chapter_topic": "Forensic client services",
       "rule_number": "65G-9.002",
       "rule_title": "Right to Vote in Public Elections",

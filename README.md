@@ -42,22 +42,36 @@ line at the bottom of each rule document on
 | Column | Meaning |
 |---|---|
 | `chapter` | F.A.C. chapter, e.g. `65G-2` |
-| `chapter_topic` | Plain-English description of what the chapter covers |
+| `chapter_official_title` | The chapter title Florida publishes, verbatim |
+| `chapter_topic` | Our plain-English description of what the chapter covers |
 | `rule_number` | Full rule number, e.g. `65G-2.008` |
 | `rule_title` | The rule's official title |
 | `effective_date` | Current effective date, ISO `YYYY-MM-DD` |
 
 ### Chapters covered
 
-| Chapter | Covers |
-|---|---|
-| 65G-1 | APD general provisions |
-| 65G-2 | Licensing and staffing of residential facilities |
-| 65G-4 | iBudget, support plans and eligibility |
-| 65G-7 | Medication administration |
-| 65G-8 | Reactive strategies |
-| 65G-10 | Appeals and hearings |
-| 65G-13 | Provider qualifications |
+<!-- chapters:start -->
+
+| Chapter | Florida's title | What it covers |
+|---|---|---|
+| 65G-1 | Waiver Enrollment for Children in the Child Welfare System | Waiver enrollment for children in the child welfare system |
+| 65G-2 | Licensure of Residential Facilities and Adult Day Training Programs | Licensing and staffing of residential facilities |
+| 65G-3 | Termination, Suspension or Reduction of Client Services by Service Providers | Stopping, reducing or suspending client services |
+| 65G-4 | Service Delivery Practice and Procedure | iBudget, support plans and eligibility |
+| 65G-5 | Supported Living Services | Supported Living services |
+| 65G-6 | Foster Care, Group Home, Developmental Training, and Supported Employment Programs Trust Fund | Trust fund loans for foster care, group homes and supported employment |
+| 65G-7 | Medication Administration | Medication administration |
+| 65G-8 | Reactive Strategies | Reactive strategies |
+| 65G-9 | Forensic Client Services | Forensic client services |
+| 65G-10 | Provider Training | Provider training |
+| 65G-11 | DD Preenrollment Categories | Pre-enrollment categories - the waiting list |
+| 65G-12 | Agency Data Management Systems | Agency data systems, including Electronic Visit Verification |
+| 65G-13 | Individual and Family Supports | Individual and family supports, and the in-home subsidy |
+| 65G-14 | Qualified Organizations and Waiver Support Coordination | Qualified Organizations and waiver support coordination |
+| 65G-15 | State Institution Claims Program | State institution claims |
+| 65G-16 | Unique Abilities Partnership Program | Unique Abilities Partnership Program |
+
+<!-- chapters:end -->
 
 Repealed and transferred rules are **included**, because they still appear on
 the state index and their absence would be misleading.
